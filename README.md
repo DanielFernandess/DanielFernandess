@@ -1,6 +1,6 @@
 ## Olá, Me chamo Carlos Daniel!
 
-- 🔭Hoje Estou Cursando T.I - UFERSA
+- 🔭Graduando Em T.I - UFERSA
 - ⚡Sou Tecnico Em T.I - UFRN
 - 📫 Made In Brazil
   
@@ -12,6 +12,3 @@
   <a href = "https://mail.google.com/mail/u/0/?ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-daniel-baaaa11a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
 </div>
-  
-  
-  
