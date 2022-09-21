@@ -1,7 +1,7 @@
 ## Olá, Me chamo Carlos Daniel!
 
-- 🔭Graduando Em T.I - UFERSA
-- ⚡Sou Tecnico Em T.I - UFRN
+- 👨‍🎓 Graduando Em T.I - UFERSA
+- 💻 Sou Tecnico Em T.I - UFRN
   
 ##
 
