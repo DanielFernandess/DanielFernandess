@@ -7,7 +7,7 @@
 
 Portfolio: https://daniel-fernandes.vercel.app/
   
-  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lpaulovt/)](https://linkedin.com/in/carlos-daniel-baaaa11a7) 
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lpaulovt/)](https://www.linkedin.com/in/carlosdanielfernandes) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvavitorlopes711@gmail.com)](mailto:carloscdanield@gmail.com)
 
 ## Linguagens e Ferramentas:
