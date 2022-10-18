@@ -1,4 +1,4 @@
-## Olá, Me chamo Carlos Daniel!
+## Hello, my name is Carlos Daniel!
 
 - 👨‍🎓 Graduando Em T.I - UFERSA
 - 💻 Sou Tecnico Em Manutenção e Suporte em Informatica - UFRN
