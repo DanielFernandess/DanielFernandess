@@ -5,6 +5,10 @@
   
 ##
 
+Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova guia
+
+##
+
 Portfolio: https://daniel-fernandes.vercel.app/
   
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lpaulovt/)](https://www.linkedin.com/in/carlosdanielfernandes) 
