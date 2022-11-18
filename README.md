@@ -1,7 +1,7 @@
 ## Olá, me chamo Carlos Daniel!
 
 - 👨‍🎓 Graduando Em T.I - UFERSA
-- 💻 Sou Tecnico Em Manutenção e Suporte em Informatica - UFRN
+- 💻 Sou Tecnico Em Manutenção e Suporte em Informática - UFRN
   
 ##
 
