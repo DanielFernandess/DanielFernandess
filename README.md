@@ -2,6 +2,7 @@
 
 - 👨‍🎓 Graduando Em T.I - UFERSA
 - 💻 Sou Tecnico Em Manutenção e Suporte em Informática - UFRN
+- ⚡ Sempre Buscando Evoluir
   
 ##
 
