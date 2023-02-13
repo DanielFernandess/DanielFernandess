@@ -6,7 +6,7 @@
   
 ##
 
-Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova guia
+Dica: Ao clicar em um link, segure Ctrl para ser redirecionado para uma nova guia!
 
 ##
 
